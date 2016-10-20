@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 9/13/2016 3:33:05 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 10/20/2016 1:39:17 PM
 
 BeginCmp
 TimeStamp = /57AF0631/57B02D0B;
@@ -130,7 +130,7 @@ BeginCmp
 TimeStamp = /56ECBEFE;
 Reference = D4;
 ValeurCmp = 1N40XX;
-IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+IdModule  = EE:Diode_D4;
 EndCmp
 
 BeginCmp
@@ -431,42 +431,42 @@ BeginCmp
 TimeStamp = /56ECBF2B;
 Reference = Q1;
 ValeurCmp = BC849;
-IdModule  = EE:Transistorsc70;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
 EndCmp
 
 BeginCmp
 TimeStamp = /56ECE3DD;
 Reference = Q2;
 ValeurCmp = BC849;
-IdModule  = EE:Transistorsc70;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
 EndCmp
 
 BeginCmp
 TimeStamp = /57AF0631/57B02D13;
 Reference = Q3;
 ValeurCmp = BC849;
-IdModule  = EE:Transistorsc70;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
 EndCmp
 
 BeginCmp
 TimeStamp = /57AF0631/57B02D14;
 Reference = Q4;
 ValeurCmp = BC849;
-IdModule  = EE:Transistorsc70;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
 EndCmp
 
 BeginCmp
 TimeStamp = /57AF0631/57B02D15;
 Reference = Q5;
 ValeurCmp = BC849;
-IdModule  = EE:Transistorsc70;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
 EndCmp
 
 BeginCmp
 TimeStamp = /57AF0631/57B02D16;
 Reference = Q6;
 ValeurCmp = BC849;
-IdModule  = EE:Transistorsc70;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
 EndCmp
 
 BeginCmp
@@ -550,6 +550,13 @@ BeginCmp
 TimeStamp = /57C96408;
 Reference = R12;
 ValeurCmp = 470E;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5808A372;
+Reference = R13;
+ValeurCmp = 1K;
 IdModule  = Resistors_SMD:R_0603_HandSoldering;
 EndCmp
 

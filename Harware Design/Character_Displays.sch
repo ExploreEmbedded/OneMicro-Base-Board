@@ -1334,15 +1334,7 @@ Wire Wire Line
 	5750 3950 6000 3950
 Text GLabel 5900 3850 0    40   Input ~ 0
 SCK
-Wire Wire Line
-	7900 4100 7600 4100
-Wire Wire Line
-	7600 4100 7600 4500
-Wire Wire Line
-	7600 4500 5650 4500
-Wire Wire Line
-	5650 3550 6000 3550
-Text GLabel 5900 3650 0    40   Input ~ 0
+Text GLabel 7900 4100 0    40   Input ~ 0
 MISO
 $Comp
 L GND #PWR074
@@ -1378,8 +1370,6 @@ Wire Wire Line
 Wire Wire Line
 	6900 3550 6800 3550
 Connection ~ 6900 3850
-Wire Wire Line
-	5900 3650 6000 3650
 Wire Wire Line
 	5950 3450 6000 3450
 Connection ~ 5950 3750
@@ -1425,8 +1415,6 @@ F 3 "" H 7050 3400 60  0000 C CNN
 $EndComp
 Wire Wire Line
 	7050 3350 7050 3400
-Wire Wire Line
-	5650 4500 5650 3550
 $Comp
 L CONN_01X01 P20
 U 1 1 57D7D8DD
@@ -1439,4 +1427,6 @@ F 3 "" H 7900 6250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 NoConn ~ 7700 6250
+NoConn ~ 6000 3550
+NoConn ~ 6000 3650
 $EndSCHEMATC
