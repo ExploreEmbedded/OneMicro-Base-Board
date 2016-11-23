@@ -4,4 +4,6 @@
   (lib (name Logo_New)(type KiCad)(uri "H:\\PCB_Designes\\LPC1768 Stick1\\lib_new\\New_Logo.pretty")(options "")(descr ""))
   (lib (name Rotary_Encoder)(type KiCad)(uri H:\PCB_Designes\w_misc_comp.pretty)(options "")(descr ""))
   (lib (name EEbyme)(type KiCad)(uri "C:\\KiCad\\share\\library\\EE library.pretty")(options "")(descr ""))
+  (lib (name EEc)(type KiCad)(uri "C:\\KiCad\\share\\library\\EE library.pretty")(options "")(descr ""))
+  (lib (name WRGB)(type KiCad)(uri C:\KiCad\share\library\Walter\w_smd_leds.pretty)(options "")(descr ""))
 )
