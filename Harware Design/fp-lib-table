@@ -3,6 +3,7 @@
   (lib (name Logo)(type KiCad)(uri "H:\\PCB_Designes\\LPC1768 Stick1\\lib_new\\logo.pretty")(options "")(descr ""))
   (lib (name Logo_New)(type KiCad)(uri "H:\\PCB_Designes\\LPC1768 Stick1\\lib_new\\New_Logo.pretty")(options "")(descr ""))
   (lib (name Rotary_Encoder)(type KiCad)(uri H:\PCB_Designes\w_misc_comp.pretty)(options "")(descr ""))
+<<<<<<< HEAD
   (lib (name Air_Coils_SML_NEOSID)(type Github)(uri "$(KIGITHUB)/Air_Coils_SML_NEOSID.pretty")(options "")(descr ""))
   (lib (name Battery_Holders)(type Github)(uri "$(KIGITHUB)/Battery_Holders.pretty")(options "")(descr ""))
   (lib (name Buttons_Switches_SMD)(type Github)(uri "$(KIGITHUB)/Buttons_Switches_SMD.pretty")(options "")(descr ""))
@@ -87,4 +88,9 @@
   (lib (name Varistors)(type Github)(uri "$(KIGITHUB)/Varistors.pretty")(options "")(descr ""))
   (lib (name Wire_Connections_Bridges)(type Github)(uri "$(KIGITHUB)/Wire_Connections_Bridges.pretty")(options "")(descr ""))
   (lib (name Wire_Pads)(type Github)(uri "$(KIGITHUB)/Wire_Pads.pretty")(options "")(descr ""))
+=======
+  (lib (name EEbyme)(type KiCad)(uri "C:\\KiCad\\share\\library\\EE library.pretty")(options "")(descr ""))
+  (lib (name EEc)(type KiCad)(uri "C:\\KiCad\\share\\library\\EE library.pretty")(options "")(descr ""))
+  (lib (name WRGB)(type KiCad)(uri C:\KiCad\share\library\Walter\w_smd_leds.pretty)(options "")(descr ""))
+>>>>>>> origin/master
 )

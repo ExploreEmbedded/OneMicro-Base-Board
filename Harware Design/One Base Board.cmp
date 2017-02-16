@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 10/20/2016 1:39:17 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 21-Nov-16 2:44:54 PM
 
 BeginCmp
 TimeStamp = /57AF0631/57B02D0B;
@@ -130,7 +130,7 @@ BeginCmp
 TimeStamp = /56ECBEFE;
 Reference = D4;
 ValeurCmp = 1N40XX;
-IdModule  = EE:Diode_D4;
+IdModule  = EEc:ZenerDiode_SMD_new;
 EndCmp
 
 BeginCmp
@@ -977,7 +977,7 @@ BeginCmp
 TimeStamp = /5526298B/56EFB146;
 Reference = U3;
 ValeurCmp = RGB_4pin;
-IdModule  = EE:RGB_SMD_4pin;
+IdModule  = WRGB:sfh5712;
 EndCmp
 
 BeginCmp
