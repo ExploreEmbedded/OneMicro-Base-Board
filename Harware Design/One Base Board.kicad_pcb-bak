@@ -11215,11 +11215,11 @@
   )
 
   (module Labels:u2 (layer F.Cu) (tedit 0) (tstamp 59560A88)
-    (at 190.9565 84.766 90)
-    (fp_text reference G*** (at 0 0 90) (layer F.SilkS) hide
+    (at 190.9565 84.766 270)
+    (fp_text reference G*** (at 0 0 270) (layer F.SilkS) hide
       (effects (font (thickness 0.3)))
     )
-    (fp_text value LOGO (at 0.75 0 90) (layer F.SilkS) hide
+    (fp_text value LOGO (at 0.75 0 270) (layer F.SilkS) hide
       (effects (font (thickness 0.3)))
     )
     (fp_poly (pts (xy 2.537206 2.036876) (xy -2.537206 2.036876) (xy -2.537206 -2.034337) (xy -2.534667 -2.034337)
@@ -11707,8 +11707,8 @@
   (gr_text BLUE (at 185.6105 124.206) (layer F.SilkS)
     (effects (font (size 1.397 1.397) (thickness 0.34925)))
   )
-  (gr_text GREEN (at 186.3725 121.666) (layer F.SilkS)
-    (effects (font (size 1.397 1.397) (thickness 0.34925)))
+  (gr_text GREEN (at 185.6565 121.666) (layer F.SilkS)
+    (effects (font (size 1.143 1.143) (thickness 0.28575)))
   )
   (gr_text RED (at 184.8485 119.126) (layer F.SilkS)
     (effects (font (size 1.397 1.397) (thickness 0.34925)))
