@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 update=2/16/2017 10:58:00 AM
 =======
-update=08-Sep-17 3:59:25 PM
+update=5/25/2018 7:14:49 PM
 >>>>>>> origin/master
 version=1
 last_client=kicad
@@ -28,19 +28,6 @@ ModuleOutlineThickness=0.150000000000
 LibDir=
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=70
 [cvpcb]
 version=1
 NetIExt=net
@@ -86,3 +73,13 @@ LibName35=H:/PCB_Designes/ARM Base Board_V1 - Copy/128X64_LCD
 LibName36=H:/PCB_Designes/Shields and Sensors/CP2102_Shield_V1/usb to serial-cache
 LibName37=H:/PCB_Designes/Breakouts/Level Translator/TXB0104 Level translator-cache
 LibName38=H:/PCB_Designes/Explore M3 v0.3/ExploreM3
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=../Others/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=70

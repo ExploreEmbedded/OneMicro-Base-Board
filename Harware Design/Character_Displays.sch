@@ -11,7 +11,6 @@ LIBS:cmos4000
 LIBS:adc-dac
 LIBS:memory
 LIBS:xilinx
-LIBS:special
 LIBS:microcontrollers
 LIBS:dsp
 LIBS:microchip
@@ -46,9 +45,11 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L LCD-016N002L DS1
+L LCD-016N002L-RESCUE-One_Base_Board DS1
 U 1 1 56EF4D06
 P 1625 1125
+AR Path="/56EF4D06" Ref="DS1"  Part="1" 
+AR Path="/5526298B/56EF4D06" Ref="DS1"  Part="1" 
 F 0 "DS1" H 825 1525 40  0000 C CNN
 F 1 "LCD-016N002L" H 2325 1525 40  0000 C CNN
 F 2 "Display:WC1602A" H 1625 1075 35  0001 C CIN
@@ -136,7 +137,7 @@ $EndComp
 Text GLabel 2375 1625 2    40   Input ~ 0
 LEDK
 $Comp
-L POT RV4
+L POT-RESCUE-One_Base_Board RV4
 U 1 1 56EF4D38
 P 950 2400
 F 0 "RV4" H 950 2300 50  0000 C CNN
@@ -223,7 +224,7 @@ F 3 "" H 3175 1575 60  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L POT RV5
+L POT-RESCUE-One_Base_Board RV5
 U 1 1 56EF4D68
 P 5550 1175
 F 0 "RV5" H 5550 1075 50  0000 C CNN
@@ -825,7 +826,7 @@ $EndComp
 Text GLabel 5475 6400 2    40   Input ~ 0
 VBAT
 $Comp
-L Rotary_Encoder U9
+L Rotary_Encoder-RESCUE-One_Base_Board U9
 U 1 1 57BC7B5B
 P 3875 4075
 F 0 "U9" H 4025 4275 40  0000 C CNN
